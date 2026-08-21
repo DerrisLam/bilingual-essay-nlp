@@ -1,0 +1,10 @@
+streamlit>=1.37
+pandas>=2.1
+xlsxwriter>=3.2
+openpyxl>=3.1
+python-docx>=1.1
+spacy>=3.7,<4
+hanlp>=2.1
+pyphen>=0.16
+lexical-diversity>=0.1.1
+tensorflow-cpu>=2.15
